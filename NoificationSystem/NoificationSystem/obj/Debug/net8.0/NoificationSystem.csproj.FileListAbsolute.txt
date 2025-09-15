@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\bin\Debug\net8.0\NoificationSystem.exe
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\bin\Debug\net8.0\NoificationSystem.deps.json
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\bin\Debug\net8.0\NoificationSystem.runtimeconfig.json
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\bin\Debug\net8.0\NoificationSystem.dll
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\bin\Debug\net8.0\NoificationSystem.pdb
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.dll
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\refint\NoificationSystem.dll
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.pdb
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\NoificationSystem.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\NoificationSystem\NoificationSystem\obj\Debug\net8.0\ref\NoificationSystem.dll

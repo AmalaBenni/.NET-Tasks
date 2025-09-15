@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\bin\Debug\net8.0\EmployeeCollections.exe
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\bin\Debug\net8.0\EmployeeCollections.deps.json
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\bin\Debug\net8.0\EmployeeCollections.runtimeconfig.json
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\bin\Debug\net8.0\EmployeeCollections.dll
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\bin\Debug\net8.0\EmployeeCollections.pdb
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.dll
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\refint\EmployeeCollections.dll
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.pdb
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\EmployeeCollections.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\EmployeeCollections\EmployeeCollections\obj\Debug\net8.0\ref\EmployeeCollections.dll

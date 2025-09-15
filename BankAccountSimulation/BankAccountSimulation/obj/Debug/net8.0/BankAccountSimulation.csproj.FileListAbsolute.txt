@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\bin\Debug\net8.0\BankAccountSimulation.exe
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\bin\Debug\net8.0\BankAccountSimulation.deps.json
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\bin\Debug\net8.0\BankAccountSimulation.runtimeconfig.json
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\bin\Debug\net8.0\BankAccountSimulation.dll
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\bin\Debug\net8.0\BankAccountSimulation.pdb
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.dll
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\refint\BankAccountSimulation.dll
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.pdb
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\BankAccountSimulation.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\BankAccountSimulation\BankAccountSimulation\obj\Debug\net8.0\ref\BankAccountSimulation.dll

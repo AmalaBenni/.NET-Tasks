@@ -1,0 +1,15 @@
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\bin\Debug\net8.0\EmployeeRecordsXML.exe
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\bin\Debug\net8.0\EmployeeRecordsXML.deps.json
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\bin\Debug\net8.0\EmployeeRecordsXML.runtimeconfig.json
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\bin\Debug\net8.0\EmployeeRecordsXML.dll
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\bin\Debug\net8.0\EmployeeRecordsXML.pdb
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.dll
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\refint\EmployeeRecordsXML.dll
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.pdb
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\EmployeeRecordsXML.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\obj\Debug\net8.0\ref\EmployeeRecordsXML.dll
+C:\Users\WIIS\source\repos\EmployeeRecordsXML\EmployeeRecordsXML\bin\Debug\net8.0\Employees.xml

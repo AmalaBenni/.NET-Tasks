@@ -34,7 +34,7 @@ namespace StudentAPI.Controllers
                 return NotFound();
             return Ok(student);
         }
-
+                       
         // POST: api/students
         [HttpPost]
         public IActionResult Add(Student student)

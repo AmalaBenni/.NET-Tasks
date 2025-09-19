@@ -1,10 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using ProductListDb.Data; // <-- add your namespace for DbContext
+using ProductListDb.Data; // add your namespace for DbContext
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+                                            
+builder.Services.AddControllersWithViews(); // Add services to the container.
 
 // Register ApplicationDbContext with MySQL
 builder.Services.AddDbContext<AppDbContext>(options =>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WIIS\\source\\repos\\Greeting\\Greeting\\Greeting.csproj": {}
+    "C:\\Users\\WIIS\\Desktop\\Task2\\Greeting\\Greeting\\Greeting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WIIS\\source\\repos\\Greeting\\Greeting\\Greeting.csproj": {
+    "C:\\Users\\WIIS\\Desktop\\Task2\\Greeting\\Greeting\\Greeting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WIIS\\source\\repos\\Greeting\\Greeting\\Greeting.csproj",
+        "projectUniqueName": "C:\\Users\\WIIS\\Desktop\\Task2\\Greeting\\Greeting\\Greeting.csproj",
         "projectName": "Greeting",
-        "projectPath": "C:\\Users\\WIIS\\source\\repos\\Greeting\\Greeting\\Greeting.csproj",
+        "projectPath": "C:\\Users\\WIIS\\Desktop\\Task2\\Greeting\\Greeting\\Greeting.csproj",
         "packagesPath": "C:\\Users\\WIIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WIIS\\source\\repos\\Greeting\\Greeting\\obj\\",
+        "outputPath": "C:\\Users\\WIIS\\Desktop\\Task2\\Greeting\\Greeting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

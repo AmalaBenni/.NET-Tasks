@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj": {}
+    "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj": {
+    "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+        "projectUniqueName": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
         "projectName": "EmployeeApp",
-        "projectPath": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+        "projectPath": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
         "packagesPath": "C:\\Users\\WIIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\obj\\",
+        "outputPath": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

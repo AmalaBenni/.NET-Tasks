@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\Task_3\\",
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\Desktop\\Task2\\Task 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6DE301B-37AE-4814-9EB1-2AECE190068E}|Task_3\\Task_3.csproj|c:\\users\\wiis\\source\\repos\\task_3\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6DE301B-37AE-4814-9EB1-2AECE190068E}|Task_3\\Task_3.csproj|c:\\users\\wiis\\desktop\\task2\\task 3\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6DE301B-37AE-4814-9EB1-2AECE190068E}|Task_3\\Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\Task_3\\Task_3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\Task 3\\Task_3\\Program.cs",
               "RelativeDocumentMoniker": "Task_3\\Program.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\Task_3\\Task_3\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\Task 3\\Task_3\\Program.cs",
               "RelativeToolTip": "Task_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T13:10:04.214Z",
               "EditorCaption": ""

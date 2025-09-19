@@ -6,7 +6,6 @@ class Student
 {
     public string Name;
     public int Age;
-    public string Subject;
 
 }
 
@@ -25,9 +24,8 @@ class Program
        
         Console.Write("Enter maximum age: ");
         int maxAge = int.Parse(Console.ReadLine());
-        Console.Write("Enter subject ");
-        string subject = Console.ReadLine();
-        var filtered = students.Where(s => s.Age <= maxAge && subject ==subject);
+      
+        var filtered = students.Where(s => s.Age <= maxAge);
         Console.WriteLine("Students : ");
         foreach (var s in filtered)
         {

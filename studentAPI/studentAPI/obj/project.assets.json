@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WIIS\\source\\repos\\studentAPI\\studentAPI\\studentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\WIIS\\Desktop\\Task2\\studentAPI\\studentAPI\\studentAPI.csproj",
       "projectName": "studentAPI",
-      "projectPath": "C:\\Users\\WIIS\\source\\repos\\studentAPI\\studentAPI\\studentAPI.csproj",
+      "projectPath": "C:\\Users\\WIIS\\Desktop\\Task2\\studentAPI\\studentAPI\\studentAPI.csproj",
       "packagesPath": "C:\\Users\\WIIS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WIIS\\source\\repos\\studentAPI\\studentAPI\\obj\\",
+      "outputPath": "C:\\Users\\WIIS\\Desktop\\Task2\\studentAPI\\studentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

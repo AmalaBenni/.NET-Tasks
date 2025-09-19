@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\",
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\source\\repos\\employeeapp\\employeeapp\\migrations\\20250902120150_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\migrations\\20250902120150_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\wiis\\desktop\\task2\\employeeapp\\employeeapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{283822D4-2A99-400D-8BCE-9B54BE70B990}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,48 +70,73 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeApp.csproj",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
-              "RelativeDocumentMoniker": "EmployeeApp\\EmployeeApp.csproj",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
-              "RelativeToolTip": "EmployeeApp\\EmployeeApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-02T11:53:35.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Program.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs*",
-              "RelativeToolTip": "EmployeeApp\\Program.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EmployeesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeesApiController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeesApiController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeesApiController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeesApiController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T11:47:51.433Z",
+              "WhenOpened": "2025-09-03T06:52:02.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json",
-              "RelativeDocumentMoniker": "EmployeeApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\appsettings.json",
-              "RelativeToolTip": "EmployeeApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-02T11:48:29.951Z"
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:05:07.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T06:55:08.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeApp\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T12:10:01.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T06:49:35.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Create.cshtml",
               "RelativeToolTip": "EmployeeApp\\Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -119,11 +144,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Program.cs",
+              "RelativeToolTip": "EmployeeApp\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:47:51.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:46:22.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:54:23.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Delete.cshtml",
               "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employees\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Delete.cshtml",
               "RelativeToolTip": "EmployeeApp\\Views\\Employees\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -131,35 +192,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T12:05:07.293Z"
+              "DocumentIndex": 9,
+              "Title": "EmployeeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp\\EmployeeApp.csproj",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
+              "RelativeToolTip": "EmployeeApp\\EmployeeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T11:53:35.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeesApiController.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeesApiController.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\EmployeesApiController.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\EmployeesApiController.cs",
-              "RelativeToolTip": "EmployeeApp\\Controllers\\EmployeesApiController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T06:52:02.735Z"
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\appsettings.json",
+              "RelativeToolTip": "EmployeeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T11:48:29.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Dockerfile",
               "RelativeDocumentMoniker": "EmployeeApp\\Dockerfile",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Dockerfile",
               "RelativeToolTip": "EmployeeApp\\Dockerfile",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -167,75 +228,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "EmployeeApp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T11:54:23.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EmployeeApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T06:55:08.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Models\\Employee.cs",
-              "RelativeToolTip": "EmployeeApp\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T11:46:22.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "EmployeeApp\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T12:10:01.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Edit.cshtml",
               "RelativeDocumentMoniker": "EmployeeApp\\Views\\Employees\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\Task2\\EmployeeApp\\EmployeeApp\\Views\\Employees\\Edit.cshtml",
               "RelativeToolTip": "EmployeeApp\\Views\\Employees\\Edit.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-03T04:06:05.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250902120150_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Migrations\\20250902120150_InitialCreate.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Migrations\\20250902120150_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\EmployeeApp\\EmployeeApp\\Migrations\\20250902120150_InitialCreate.cs",
-              "RelativeToolTip": "EmployeeApp\\Migrations\\20250902120150_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T12:01:50.64Z"
             },
             {
               "$type": "Bookmark",

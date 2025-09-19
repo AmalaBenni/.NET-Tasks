@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D1F91-B06A-494D-90CD-6D9E37185AF7}|CalculatorMvc\\CalculatorMvc.csproj|c:\\users\\wiis\\source\\repos\\calculatorapi\\calculatormvc\\views\\calculatorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D3D1F91-B06A-494D-90CD-6D9E37185AF7}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\views\\calculatorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D1F91-B06A-494D-90CD-6D9E37185AF7}|CalculatorMvc\\CalculatorMvc.csproj|c:\\users\\wiis\\source\\repos\\calculatorapi\\calculatormvc\\controllers\\calculatorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3D1F91-B06A-494D-90CD-6D9E37185AF7}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\controllers\\calculatorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D1F91-B06A-494D-90CD-6D9E37185AF7}|CalculatorMvc\\CalculatorMvc.csproj|c:\\users\\wiis\\source\\repos\\calculatorapi\\calculatormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3D1F91-B06A-494D-90CD-6D9E37185AF7}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C90107-0930-42E9-B596-F944CABA1522}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\wiis\\source\\repos\\calculatorapi\\calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C90107-0930-42E9-B596-F944CABA1522}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C90107-0930-42E9-B596-F944CABA1522}|CalculatorApi\\CalculatorApi.csproj|c:\\users\\wiis\\source\\repos\\calculatorapi\\calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C90107-0930-42E9-B596-F944CABA1522}|CalculatorApi\\CalculatorApi.csproj|solutionrelative:calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorApi\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApi\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorApi\\Program.cs",
+              "RelativeToolTip": "CalculatorApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:43:23.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorMvc\\Views\\CalculatorClient\\index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Views\\CalculatorClient\\index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorMvc\\Views\\CalculatorClient\\index.cshtml",
+              "RelativeToolTip": "CalculatorMvc\\Views\\CalculatorClient\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:20:44.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorClientController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "RelativeToolTip": "CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:17:23.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorMvc\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorMvc\\Program.cs",
+              "RelativeToolTip": "CalculatorMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:13:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorApi\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorApi\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\CalculatorApi\\CalculatorApi\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorApi\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:10:09.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

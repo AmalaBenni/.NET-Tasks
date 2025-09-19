@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|c:\\users\\wiis\\source\\repos\\productapi\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|c:\\users\\wiis\\source\\repos\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|c:\\users\\wiis\\source\\repos\\productapi\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|c:\\users\\wiis\\source\\repos\\productapi\\productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|c:\\users\\wiis\\source\\repos\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|c:\\users\\wiis\\source\\repos\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15297220-54AC-4574-8C3C-9CD967395C98}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T06:23:29.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:42:24.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:14:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "ProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T05:25:35.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:07:30.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductApi\\ProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:37:27.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

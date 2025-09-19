@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+## Search Results
+
+@if (Model == null || !Model.Any())
+{
+    <p>No products found.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>StockQuantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Category</td>
+                    <td>@item.Price</td>
+                    <td>@item.StockQuantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Search" class="btn btn-secondary">Back to Search</a>

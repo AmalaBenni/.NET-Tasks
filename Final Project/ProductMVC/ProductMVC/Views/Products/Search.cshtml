@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Search Products By Category";
+}
+Search Products By Category
+
+<form asp-action="Search" method="post">
+    <div class="form-group">
+        <label>Category</label>
+        <input name="Category" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>

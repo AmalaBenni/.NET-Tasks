@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\views\\products\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\views\\products\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\views\\products\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\views\\products\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|c:\\users\\wiis\\source\\repos\\productmvc\\productmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE5FB6D-5945-433D-968C-6207712D6386}|ProductMVC\\ProductMVC.csproj|solutionrelative:productmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\SearchResult.cshtml",
+              "RelativeDocumentMoniker": "ProductMVC\\Views\\Products\\SearchResult.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\SearchResult.cshtml",
+              "RelativeToolTip": "ProductMVC\\Views\\Products\\SearchResult.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:42:09.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "ProductMVC\\Views\\Products\\Search.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "ProductMVC\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T09:13:44.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T07:27:13.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:16:43.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ProductMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T07:23:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ProductMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T07:25:32.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:39:31.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "ProductMVC\\Views\\Products\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Views\\Products\\NotFound.cshtml",
+              "RelativeToolTip": "ProductMVC\\Views\\Products\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T09:16:31.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Models\\Product.cs",
+              "RelativeToolTip": "ProductMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:15:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\ProductMVC\\ProductMVC\\Program.cs",
+              "RelativeToolTip": "ProductMVC\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:11:48.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

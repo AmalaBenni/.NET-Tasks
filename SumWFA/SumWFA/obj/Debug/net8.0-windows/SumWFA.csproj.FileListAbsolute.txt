@@ -1,0 +1,16 @@
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\bin\Debug\net8.0-windows\SumWFA.exe
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\bin\Debug\net8.0-windows\SumWFA.deps.json
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\bin\Debug\net8.0-windows\SumWFA.runtimeconfig.json
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\bin\Debug\net8.0-windows\SumWFA.dll
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\bin\Debug\net8.0-windows\SumWFA.pdb
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.Form1.resources
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.csproj.GenerateResource.cache
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.dll
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\refint\SumWFA.dll
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.pdb
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\SumWFA.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\SumWFA\SumWFA\obj\Debug\net8.0-windows\ref\SumWFA.dll
